@@ -1,4 +1,4 @@
-# Global-super-store-data-analysis 
+# Global Superstore Data Analysis 
 
 - Analysed the sales of store for 4 different years.  
 - Created 4 KPI for total sales , quantity sold , Avg. Delivery days and total no. of returned orders.  
