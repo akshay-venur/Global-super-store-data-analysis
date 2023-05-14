@@ -1,9 +1,9 @@
 # Global-super-store-data-analysis 
 
--Analysed the sales of store for different years.  
--Created 4 KPI for total sales , quantity sold , Avg. Delivery days and total no. of returned orders.  
--Created Pie chart visualizations for total sales by market and segment analysis.  
--Created bar graph and column chart to analyze the top 10 profit generating customer and top 5 profit and loss making products .  
+- Analysed the sales of store for different years.  
+- Created 4 KPI for total sales , quantity sold , Avg. Delivery days and total no. of returned orders.  
+- Created Pie chart visualizations for total sales by market and segment analysis.  
+- Created bar graph and column chart to analyze the top 10 profit generating customer and top 5 profit and loss making products .  
 
 <br> 
 
